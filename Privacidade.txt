@@ -1,0 +1,24 @@
+Política de Privacidade do Aplicativo Rclone
+
+Esta política de privacidade descreve como as informações são coletadas, usadas e protegidas no contexto do uso do aplicativo Rclone. Este documento foi criado para fins de conformidade com as políticas do Google OAuth e se aplica apenas ao uso pessoal do aplicativo.
+Informações Coletadas
+
+O aplicativo Rclone não coleta, armazena ou compartilha informações pessoais de seus usuários. Todas as operações realizadas pelo aplicativo são executadas localmente na máquina do usuário.
+Uso de Informações
+
+As credenciais fornecidas pelo Google OAuth são usadas exclusivamente para acessar o Google Drive ou outros serviços de armazenamento em nuvem configurados pelo usuário. Essas credenciais são armazenadas localmente no dispositivo do usuário e nunca são compartilhadas ou transmitidas para terceiros.
+Compartilhamento de Informações
+
+Nenhuma informação é compartilhada com terceiros. O Rclone é uma ferramenta que funciona exclusivamente no dispositivo do usuário e não possui funcionalidade de coleta ou envio de dados para servidores externos.
+Segurança
+
+O Rclone segue as práticas padrão de segurança, garantindo que as credenciais e dados do usuário sejam mantidos em segurança no dispositivo local. Recomendamos que os usuários protejam seus dispositivos com medidas de segurança apropriadas, como senhas fortes e atualizações regulares.
+Consentimento
+
+Ao configurar e usar o Rclone com Google OAuth, o usuário entende e concorda que as credenciais são usadas localmente apenas para autenticação com os serviços conectados.
+Alterações na Política de Privacidade
+
+Esta política de privacidade pode ser atualizada ocasionalmente para refletir mudanças nas práticas ou requisitos. Quaisquer alterações serão documentadas nesta página.
+Contato
+
+Para perguntas ou preocupações sobre esta política de privacidade, entre em contato pelo e-mail [seuemail@exemplo.com].
